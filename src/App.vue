@@ -21,7 +21,6 @@ html, body{
   position:relative;
   width: 100%;
   height: 100%;
-  overflow:hidden;
   margin: 0;
   background: #FAF3F3;
   font-family: Inter, sans-serif;
